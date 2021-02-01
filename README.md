@@ -5,12 +5,12 @@ Look for these Projects
 
 
 1. Password Generator
-2. Todo and Expenditure Manager App :white_check_mark:
+2. Todo and Expenditure Manager App :white_check_mark: 
 3. Real Estate Website
 4. Restaurant
 5. Portfolio Website
 6. Ecommerce Website
-7. Operation Garud
+7. Operation Garud ONGOING
 8. Digital Agency
 9. Cryptography
 10. VS Code Editor Custom Extension
