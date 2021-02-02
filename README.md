@@ -5,7 +5,7 @@ Look for these Projects
 
 
 1. Password Generator
-2. Todo and Expenditure Manager App           :crescent_moon:ONGOING 
+2. Todo App           :crescent_moon:COMPLETE 
 3. Real Estate Website
 4. Restaurant
 5. Portfolio Website
