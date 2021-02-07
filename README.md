@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Look for these Projects
+In due course of time i will be completing these Projects, you can look into their code once they get completed. All the additional informations about the project will be provided into the projects's wiki. The Screenshots of the projects will be displayed in the ReadMe section just below the code.
 
 
 
@@ -15,6 +15,8 @@ Look for these Projects
 9. Cryptography
 10. VS Code Editor Custom Extension
 11. College Space Website
+12. Tutorial Institute Website  	:hedgehog:ONGOING
+
 
 📫 Reach me at: sgupta20495@gmail.com 
 
