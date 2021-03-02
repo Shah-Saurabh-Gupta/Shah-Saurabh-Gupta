@@ -15,7 +15,10 @@ In due course of time i will be completing these Projects, you can look into the
 9. Cryptography
 10. VS Code Editor Custom Extension
 11. College Space Website
-12. Tutorial Institute Website  	:hedgehog:ONGOING
+12. Tutorial Institute Website  	:hedgehog:COMPLETE
+
+
+Skill Set: MERN (MongoDB, Express, Reactjs, NodeJs) Stack, HTML, CSS, JavaScript, Cloudinary, Emailjs, Chartjs, Speechly, C, C++
 
 
 📫 Reach me at: sgupta20495@gmail.com 
