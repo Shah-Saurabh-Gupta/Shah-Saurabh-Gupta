@@ -5,7 +5,7 @@ In due course of time i will be completing these Projects, you can look into the
 
 
 1. Password Generator
-2. Todo App           :crescent_moon:COMPLETE 
+2. Todo App                                   :crescent_moon:COMPLETE 
 3. Real Estate Website
 4. Restaurant
 5. Portfolio Website
@@ -13,12 +13,16 @@ In due course of time i will be completing these Projects, you can look into the
 7. Operation Garud                            :bear:ONGOING
 8. Digital Agency
 9. Cryptography
-10. VS Code Editor Custom Extension
+10. VS Code Editor Custom Extension           :earth_asia:ONGOING
 11. College Space Website
-12. Tutorial Institute Website  	:hedgehog:COMPLETE
+12. Tutorial Institute Website              	:hedgehog:COMPLETE
 
 
 Skill Set: MERN (MongoDB, Express, Reactjs, NodeJs) Stack, HTML, CSS, JavaScript, Cloudinary, Emailjs, Chartjs, Speechly, C, C++
+
+FREELANCING PROJECTS (All are Private Repositories)
+
+1. Pedagogy Tutelage: A private tution classes institute website.
 
 
 📫 Reach me at: sgupta20495@gmail.com 
