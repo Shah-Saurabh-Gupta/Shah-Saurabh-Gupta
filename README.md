@@ -18,7 +18,7 @@ In due course of time i will be completing these Projects, you can look into the
 12. Tutorial Institute Website              	:hedgehog: COMPLETE
 13. Expenditure manager with income, simple Interest, expenses forecast  :earth_asia: ON HOLD
 14. Restaurant
-15. Uvxcel Website :money_with_wings: ONGOING
+15. Uvxcel Website 💶: ONGOING
 
 Skill Set: MERN (MongoDB, Express, Reactjs, NodeJs) Stack, HTML, CSS, JavaScript, Cloudinary, Emailjs, Chartjs, Speechly, C, C++, MJML, Redux.
 
