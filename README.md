@@ -16,9 +16,10 @@ In due course of time i will be completing these Projects, you can look into the
 10. VS Code Editor Custom Extension           
 11. College Space Website
 12. Tutorial Institute Website              	:hedgehog: COMPLETE
-13. Expenditure manager with income, simple Interest, expenses forecast  :earth_asia: ON HOLD
+13. Income manager with income, simple Interest, expenses forecast  :earth_asia: ON HOLD
 14. Restaurant
-15. Uvxcel Website 💶: ONGOING
+15. Uvxcel Website 🏢: ONGOING
+16. Expenditure Viewer 💷 :ONGOING
 
 Skill Set: MERN (MongoDB, Express, Reactjs, NodeJs) Stack, HTML, CSS, JavaScript, Cloudinary, Emailjs, Chartjs, Speechly, C, C++, MJML, Redux.
 
