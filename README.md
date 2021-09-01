@@ -12,7 +12,7 @@ In due course of time i will be updating this section with new Projects, you can
 1. Expenditure Viewer 💷 :ONGOING
 
 ## Big Projects
-1.Tutorial Institute Website              	:hedgehog: COMPLETE
+1.Tutorial Institute Website           	:hedgehog: COMPLETE
 
 ## FREELANCING PROJECTS (All are Private Repositories)
 1. Pedagogy Tutelage: A private tution classes institute website 🏫: COMPLETE
