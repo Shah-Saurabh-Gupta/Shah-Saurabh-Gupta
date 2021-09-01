@@ -1,35 +1,28 @@
 ### Hi there 👋
 
-In due course of time i will be completing these Projects, you can look into their code once they get completed. All the additional informations about the project will be provided into the projects's wiki. The Screenshots of the projects will be displayed in the ReadMe section just below the code.
+In due course of time i will be updating this section with new Projects, you can look into their code once they get completed. All the additional informations about the project will be provided into the projects's wiki. The Screenshots of the projects will be displayed in the ReadMe section just below the code.
 
+## Portfolio Website
 
-
+## Small Projects
 1. Password Generator
 2. Todo App                                   :crescent_moon: COMPLETE 
-3. Real Estate Website
-4. Immigration Lawyer's Website             :maple_leaf: ON HOLD
-5. Portfolio Website
-6. Ecommerce Website
-7. Operation Garud                           :koala: ON HOLD
-8. Digital Agency
-9. Cryptography
-10. VS Code Editor Custom Extension           
-11. College Space Website
-12. Tutorial Institute Website              	:hedgehog: COMPLETE
-13. Income manager with income, simple Interest, expenses forecast  :earth_asia: ON HOLD
-14. Restaurant
-15. Expenditure Viewer 💷 :ONGOING
 
-Skill Set: MERN (MongoDB, Express, Reactjs, NodeJs) Stack, HTML, CSS, JavaScript, Cloudinary, Emailjs, Chartjs, Speechly, C, C++, MJML, Redux.
+## Learning Section
+1. Expenditure Viewer 💷 :ONGOING
 
-FREELANCING PROJECTS (All are Private Repositories)
+## Big Projects
+1.Tutorial Institute Website              	:hedgehog: COMPLETE
 
-1. Pedagogy Tutelage: A private tution classes institute website.
+## FREELANCING PROJECTS (All are Private Repositories)
+1. Pedagogy Tutelage: A private tution classes institute website 🏫: COMPLETE
 2. Uvxcel (A Startup Company) Website 🏢: COMPLETE
 
 
-📫 Reach me at: sgupta20495@gmail.com 
+##
+**Skill Set**: MERN (MongoDB, Express, Reactjs, NodeJs) Stack, HTML, CSS, JavaScript, Cloudinary, Emailjs, Chartjs, Speechly, C, C++, MJML, Redux.
 
+📫 **Reach me at**: sgupta20495@gmail.com 
 📱: +91 8766975642
 
 <!--
