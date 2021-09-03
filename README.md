@@ -5,7 +5,7 @@ In due course of time i will be updating this section with new Projects, you can
 ## Portfolio Website
 
 ## Small Projects
-1. Password Generator
+1. Weather App
 2. Todo App                                   :crescent_moon: COMPLETE 
 
 ## Learning Section
