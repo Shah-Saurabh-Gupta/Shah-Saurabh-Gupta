@@ -5,18 +5,18 @@ In due course of time i will be updating this section with new Projects, you can
 ## Portfolio Website
 
 ## Small Projects
-1. Weather App
+1. Weather App :sun_behind_small_cloud: ONGOING
 2. Todo App                                   :crescent_moon: COMPLETE 
 
 ## Learning Section
-1. Expenditure Viewer 💷 :ONGOING
+1. Expenditure Viewer 💷 ONGOING
 
 ## Big Projects
 1.Tutorial Institute Website           	:hedgehog: COMPLETE
 
 ## FREELANCING PROJECTS (All are Private Repositories)
-1. Pedagogy Tutelage: A private tution classes institute website 🏫: COMPLETE
-2. Uvxcel (A Startup Company) Website 🏢: COMPLETE
+1. Pedagogy Tutelage: A private tution classes institute website 🏫 COMPLETE
+2. Uvxcel (A Startup Company) Website 🏢 COMPLETE
 
 
 ##
