@@ -5,19 +5,19 @@ In due course of time i will be updating this section with new Projects, you can
 ## Portfolio Website
 
 ## Small Projects
-1. Weather App :sun_behind_small_cloud: ONGOING
-2. Todo App                                   :crescent_moon: COMPLETE 
+1. Weather App (FE) :sun_behind_small_cloud: ONGOING
+2. Todo App (FE)                                  :crescent_moon: COMPLETE 
 
 ## Learning Section
-1. Expenditure Viewer 💷 ONGOING
+1. Expenditure Viewer (FE) 💷 ONGOING
 
 ## Big Projects
-1. Tutorial Institute Website           	:hedgehog: COMPLETE
-2. File Sharing App :open_file_folder: ONGOING
+1. Tutorial Institute Website (FE+BE)           	:hedgehog: COMPLETE
+2. File Sharing App (FE+BE) :open_file_folder: ONGOING
 
 ## FREELANCING PROJECTS (All are Private Repositories)
-1. Pedagogy Tutelage: A private tution classes institute website 🏫 COMPLETE
-2. Uvxcel (A Startup Company) Website 🏢 COMPLETE
+1. Pedagogy Tutelage (FE+BE): A private tution classes institute website 🏫 COMPLETE
+2. Uvxcel (A Startup Company) Website (FE) 🏢 COMPLETE
 
 
 ##
