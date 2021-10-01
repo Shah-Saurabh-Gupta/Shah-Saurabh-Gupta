@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-In due course of time i will be updating this section with new Projects, you can look into their code once they get completed. All the additional informations about the project will be provided into the projects's wiki. The Screenshots of the projects will be displayed in the ReadMe section just below the code.
+In due course of time i will be updating this section with new Projects, you can look into their code once they get completed. All the additional informations about the project will be provided into the projects's wiki or Read Me file . The Screenshots of the projects will be displayed in the ReadMe section just below the code.
 
 ## Portfolio Website
 
