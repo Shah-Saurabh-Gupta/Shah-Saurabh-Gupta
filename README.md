@@ -5,11 +5,12 @@ In due course of time i will be updating this section with new Projects, you can
 ## Portfolio Website
 
 ## Small Projects
-1. Weather App (FE) :sun_behind_small_cloud: ONGOING
+1. Weather App (FE) :cloud_with_lightning: COMPLETE
 2. Todo App (FE)                                  :crescent_moon: COMPLETE 
 
 ## Learning Section
 1. Expenditure Viewer (FE) 💷 ONGOING
+2. Authentication Sequence with Cookies :closed_lock_with_key: ONGOING
 
 ## Big Projects
 1. Tutorial Institute Website (FE+BE)           	:hedgehog: COMPLETE
