@@ -2,6 +2,8 @@
 
 In due course of time i will be updating this section with new Projects, you can look into their code once they get completed. All the additional informations about the project will be provided into the projects's wiki or Read Me file . The Screenshots of the projects will be displayed in the ReadMe section just below the code.
 
+The Screenshots and related info about the private projects (including Freelancing Projects) will be availaible in the wiki tab of the Shah-Saurabh-Gupta repo.
+
 ## Portfolio Website
 
 ## Small Projects
@@ -9,8 +11,8 @@ In due course of time i will be updating this section with new Projects, you can
 2. Todo App (FE)                                  :crescent_moon: COMPLETE 
 
 ## Learning Section
-1. Expenditure Viewer (FE) 💷 ONGOING
-2. Authentication Sequence with Cookies :closed_lock_with_key: ONGOING
+1. Expenditure Viewer (FE) :chart_with_downwards_trend: :chart_with_upwards_trend: ONGOING
+2. Authentication Sequence with Cookies :cookie: ONGOING
 
 ## Big Projects
 1. Tutorial Institute Website (FE+BE)           	:hedgehog: COMPLETE
