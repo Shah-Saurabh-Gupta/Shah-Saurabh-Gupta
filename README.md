@@ -12,7 +12,7 @@ The Screenshots and related info about the private projects (including Freelanci
 
 ## Learning Section
 1. Expenditure Viewer (FE) :chart_with_downwards_trend: :chart_with_upwards_trend: ONGOING
-2. Authentication Sequence with Cookies :cookie: ONGOING
+2. Authentication Sequence with Cookies (BE+FE) :cookie: ONGOING
 
 ## Big Projects
 1. Tutorial Institute Website (FE+BE)           	:hedgehog: COMPLETE
@@ -24,7 +24,7 @@ The Screenshots and related info about the private projects (including Freelanci
 
 
 ##
-**Skill Set**: MERN (MongoDB, Express, Reactjs, NodeJs) Stack, HTML, CSS, JavaScript, Cloudinary, Emailjs, Chartjs, Speechly, C, C++, MJML, Redux.
+**Skill Set**: MERN (MongoDB, Express, Reactjs, NodeJs) Stack, HTML, CSS, JavaScript, Cloudinary, Emailjs, Chartjs, Speechly, C, C++, MJML, Redux, Electron JS
 
 📫 **Reach me at**: sgupta20495@gmail.com 
 📱: +91 8766975642
