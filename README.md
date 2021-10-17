@@ -12,14 +12,14 @@ The Screenshots and related info about the private projects (including Freelanci
 
 ## Learning Section
 1. Expenditure Viewer (FE) :chart_with_downwards_trend: :chart_with_upwards_trend: ONGOING
-2. Authentication Sequence with Cookies (BE+FE) :cookie: ONGOING
+2. Authentication Sequence with Cookies (**BE**+FE) :cookie: COMPLETE
 
 ## Big Projects
-1. Tutorial Institute Website (FE+BE)           	:hedgehog: COMPLETE
-2. File Sharing App (FE+BE) :open_file_folder: ONGOING
+1. Tutorial Institute Website (**FE**+BE)           	:hedgehog: COMPLETE
+2. File Sharing App (FE+BE) :open_file_folder: IMPROVEMENT NEEDED
 
 ## FREELANCING PROJECTS (All are Private Repositories)
-1. Pedagogy Tutelage (FE+BE): A private tution classes institute website 🏫 COMPLETE
+1. Pedagogy Tutelage (**FE**+BE): A private tution classes institute website 🏫 COMPLETE
 2. Uvxcel (A Startup Company) Website (FE) 🏢 COMPLETE
 
 
