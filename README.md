@@ -21,7 +21,7 @@ The Screenshots and related info about the private projects (including Freelanci
 ## FREELANCING PROJECTS (All are Private Repositories)
 1. Pedagogy Tutelage (**FE**+BE): A private tution classes institute website 🏫 COMPLETE
 2. Uvxcel (A Startup Company) Website (FE) 🏢 COMPLETE
-3. Inventory Management System (Software) :electron: ONGOING
+3. Student Management System (Software) :electron: ONGOING
 
 
 ##
