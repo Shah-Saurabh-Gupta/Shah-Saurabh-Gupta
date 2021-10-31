@@ -11,7 +11,7 @@ The Screenshots and related info about the private projects (including Freelanci
 2. Todo App (FE)                                  :crescent_moon: COMPLETE 
 
 ## Learning Section
-1. Expenditure Viewer (FE) :chart_with_downwards_trend: :chart_with_upwards_trend: ONGOING
+1. Expenditure Viewer (FE) :chart_with_downwards_trend: :chart_with_upwards_trend: ONHALT
 2. Authentication Sequence with Cookies (**BE**+FE) :cookie: COMPLETE
 
 ## Big Projects
@@ -25,7 +25,7 @@ The Screenshots and related info about the private projects (including Freelanci
 
 
 ##
-**Skill Set**: MERN (MongoDB, Express, Reactjs, NodeJs) Stack, HTML, CSS, JavaScript, Cloudinary, Emailjs, Chartjs, Speechly, C, C++, MJML, Redux, Electron JS
+**Skill Set**: `MERN (MongoDB, Express, Reactjs, NodeJs) Stack`, `HTML`, `CSS`, `JavaScript`, `Cloudinary`, `Emailjs`, `Chartjs`, `Speechly`, `C`, `C++`, `MJML`, `Redux`, `Electron JS`
 
 📫 **Reach me at**: sgupta20495@gmail.com 
 📱: +91 8766975642
