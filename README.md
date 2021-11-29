@@ -13,6 +13,7 @@ The Screenshots and related info about the private projects (including Freelanci
 ## Learning Section
 1. Expenditure Viewer (FE) :chart_with_downwards_trend: :chart_with_upwards_trend: ONHALT
 2. Authentication Sequence with Cookies (**BE**+FE) :cookie: COMPLETE
+3. Chat App with Electron, React and Firebase :speech_balloon: ONGOING
 
 ## Big Projects
 1. Tutorial Institute Website (**FE**+BE)           	:hedgehog: COMPLETE
