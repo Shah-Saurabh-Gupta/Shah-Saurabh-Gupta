@@ -12,15 +12,15 @@ The Screenshots and related info about the private projects (including Freelanci
 
 ## Learning Section
 1. Expenditure Viewer (FE) :chart_with_downwards_trend: :chart_with_upwards_trend: ONHALT
-2. Authentication Sequence with Cookies (**BE**+FE) :cookie: COMPLETE
-3. Chat App with Electron, React and Firebase (PRIVATE REPO) :speech_balloon: ONGOING
+2. Authentication Sequence with Cookies (_**BE**_+FE) :cookie: COMPLETE
+3. Chat App with Electron, React and Firebase (PRIVATE REPO) :speech_balloon: :seedling: ONGOING
 
 ## Big Projects
-1. Tutorial Institute Website (**FE**+BE)           	:hedgehog: COMPLETE
+1. Tutorial Institute Website (_**FE**_+BE)           	:hedgehog: COMPLETE
 2. File Sharing App (FE+BE) :open_file_folder: IMPROVEMENT NEEDED
 
 ## FREELANCING PROJECTS (All are Private Repositories)
-1. Pedagogy Tutelage (**FE**+BE): A private tution classes institute website 🏫 COMPLETE
+1. Pedagogy Tutelage (_**FE**_+BE): A private tution classes institute website 🏫 COMPLETE
 2. Uvxcel (A Startup Company) Website (FE) 🏢 COMPLETE
 3. Student Management System (Software) :electron: ONGOING
 
